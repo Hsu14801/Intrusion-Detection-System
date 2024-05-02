@@ -2,15 +2,10 @@
 Hybrid of Signature and Anomaly Detection
 
 System Requirements:
-
-GPU: Greater than 2GB
-
-RAM: 4GB or higher
-
-CPU: Core i5 and above
-
-Operating System: Windows 10, 11
-
+GPU: Greater than 2GB,
+RAM: 4GB or higher,
+CPU: Core i5 and above,
+Operating System: Windows 10, 11, Linux
 Python Version: 3.8 and above
 
 Installation Requied Packages: pip install -r requirements.txt
